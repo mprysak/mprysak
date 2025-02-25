@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1>Hello everyone👋</h1>
+<p>I'm Marcin and I'm a young programer from Poland🇵🇱</p>
+<p>🛠️I'm currently working on my css skills because I'm a little bad in coding in css!</p>
+<p>😄An interesting fact about me is that I have been playing the saxophone for 3 years🎷</p>
 
 <!--
 **mprysak/mprysak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
