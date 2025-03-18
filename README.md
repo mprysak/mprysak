@@ -1,3 +1,9 @@
+<style>
+  img{
+    width: 20px;
+  }
+</style>
+
 <h1>Hello everyone👋</h1>
 <p>I'm Marcin and I'm a young programer from Poland🇵🇱</p>
 <p>🛠️I'm currently working on my css skills because I'm a little bad in coding in css!</p>
