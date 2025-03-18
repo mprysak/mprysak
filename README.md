@@ -10,7 +10,7 @@
   <p>🛠️I'm currently working on my css skills because I'm a little bad in coding in css!</p>
   <p>😄An interesting fact about me is that I have been playing the saxophone for 3 years🎷</p>
   <h1>RoadMapa</h1>
-  <img src="https://colabdigital.co.uk/wp-content/uploads/2020/04/css3-html5-logo-500px.png" alt="html and css image" width="150px" height="130px"> 
+  <img src="https://colabdigital.co.uk/wp-content/uploads/2020/04/css3-html5-logo-500px.png" alt="html and css image" width="170px" height="130px"> 
   <img src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies-thumbnail.png"> 
   <img src="https://www.pikpng.com/pngl/m/150-1506141_javascript-logo-png.png" alt="html and css and js image" width="150px" height="130px">  
   <img src="https://paginas-web-cr.com/wp-content/uploads/2019/06/html5-css3-js-bootstrap.png" alt="html and css and js image" width="150px" height="130px">
