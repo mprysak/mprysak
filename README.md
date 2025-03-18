@@ -9,7 +9,7 @@
   <p>I'm Marcin and I'm a young programer from Poland🇵🇱</p>
   <p>🛠️I'm currently working on my css skills because I'm a little bad in coding in css!</p>
   <p>😄An interesting fact about me is that I have been playing the saxophone for 3 years🎷</p>
-  <h1>RoadMapa</h1>
+  <h1>Roadmapa</h1>
   <p>HTML CSS -> BOOTSTRAP -> JAVASCRIPT -> HTML CSS JS -> HTML SCSS BOOTSTRAP JS -> TYPESCRIPT -> REACT</p>
 
 
