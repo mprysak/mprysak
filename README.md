@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
 </head>
 <body>
   <h1>Hello everyone👋</h1>
@@ -11,7 +10,7 @@
   <p>🛠️I'm currently working on my css skills because I'm a little bad in coding in css!</p>
   <p>😄An interesting fact about me is that I have been playing the saxophone for 3 years🎷</p>
   <h1>RoadMapa</h1>
-  <p>HTML CSS => BOOTSTRAP => I'M HERE => HTML + CSS + JAVASCRIPT => HTML + BOOTSTRAP + SASS + JAVASCRIPT => TYPESCRIPT => REACT</p>
+  <p>HTML CSS <img src="https://byfeel.info/wp-content/uploads/2015/02/css-html2-e1517475681211.png.webp" alt="html and css image" width="30px" height="30px"> => BOOTSTRAP => I'M HERE => HTML + CSS + JAVASCRIPT => HTML + BOOTSTRAP + SASS + JAVASCRIPT => TYPESCRIPT => REACT</p>
 
 </body>
 </html>
