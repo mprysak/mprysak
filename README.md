@@ -10,7 +10,12 @@
   <p>🛠️I'm currently working on my css skills because I'm a little bad in coding in css!</p>
   <p>😄An interesting fact about me is that I have been playing the saxophone for 3 years🎷</p>
   <h1>RoadMapa</h1>
-  <p>HTML CSS <img src="https://colabdigital.co.uk/wp-content/uploads/2020/04/css3-html5-logo-500px.png" alt="html and css image" width="150px" height="130px"> BOOTSTRAP <img src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies-thumbnail.png"> I'M HERE  HTML + CSS + JAVASCRIPT <img src="https://www.pikpng.com/pngl/m/150-1506141_javascript-logo-png.png" alt="html and css and js image" width="150px" height="130px"> HTML + BOOTSTRAP + CSS + JAVASCRIPT <img src="https://paginas-web-cr.com/wp-content/uploads/2019/06/html5-css3-js-bootstrap.png" alt="html and css and js image" width="150px" height="130px"> TYPESCRIPT <img src="https://w7.pngwing.com/pngs/616/528/png-transparent-angularjs-typescript-javascript-vue-js-others-blue-angle-text-thumbnail.png"  alt="typescript image" width="150px" height="130px"> REACT<img src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png"  alt="html and css and js image" width="150px" height="130px"></p>
+  <img src="https://colabdigital.co.uk/wp-content/uploads/2020/04/css3-html5-logo-500px.png" alt="html and css image" width="150px" height="130px"> 
+  <img src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies-thumbnail.png"> 
+  <img src="https://www.pikpng.com/pngl/m/150-1506141_javascript-logo-png.png" alt="html and css and js image" width="150px" height="130px">  
+  <img src="https://paginas-web-cr.com/wp-content/uploads/2019/06/html5-css3-js-bootstrap.png" alt="html and css and js image" width="150px" height="130px">
+  <img src="https://w7.pngwing.com/pngs/616/528/png-transparent-angularjs-typescript-javascript-vue-js-others-blue-angle-text-thumbnail.png"  alt="typescript image" width="150px" height="130px"> 
+  <img src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png"  alt="html and css and js image" width="150px" height="130px">
 
 </body>
 </html>
