@@ -11,7 +11,7 @@
   <p>🛠️I'm currently working on my css skills because I'm a little bad in coding in css!</p>
   <p>😄An interesting fact about me is that I have been playing the saxophone for 3 years🎷</p>
   <h1>RoadMapa</h1>
-  <p>HTML CSS => BOOTSTRAP => TU JESTEM => HTML + CSS + JAVASCRIPT => HTML + BOOTSTRAP + SASS + JAVASCRIPT => TYPESCRIPT => REACT</p>
+  <p>HTML CSS => BOOTSTRAP => I'M HERE => HTML + CSS + JAVASCRIPT => HTML + BOOTSTRAP + SASS + JAVASCRIPT => TYPESCRIPT => REACT</p>
 
 </body>
 </html>
@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
