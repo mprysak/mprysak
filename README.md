@@ -5,13 +5,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <h1>Hello everyone👋</h1>
+  <h1>Hello everyone 👋</h1>
   <p>I'm Marcin and I'm a young programer from Poland🇵🇱</p>
   <p>🛠️I'm currently working on my css skills because I'm a little bad in coding in css!</p>
   <p>😄An interesting fact about me is that I have been playing the saxophone for 3 years🎷</p>
-  <h1>SKILLS</h1>
-  <p>HTML, CSS, BOOTSTRAP, JAVASCRIPT BASIC</p>
-  <h1>Roadmapa</h1>
+  <h1>💼 SKILLS 💼</h1>
+  <p>✅ HTML, CSS, BOOTSTRAP, JAVASCRIPT BASIC ✅</p>
+  <h1>🗺️ Roadmapa 🗺️</h1>
   <p>HTML CSS -> BOOTSTRAP -> JAVASCRIPT -> HTML CSS JS -> I'M HERE -> HTML SCSS BOOTSTRAP JS -> TYPESCRIPT -> REACT</p>
 
 
