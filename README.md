@@ -6,21 +6,13 @@
   <title>Document</title>
 </head>
 <body>
-  <style>
-    img{
-      width: 40px;
-      height: 40px;
-      border-radius: 2px;
-    }
-  </style>
-  
   <h1>Hello everyone👋</h1>
   <p>I'm Marcin and I'm a young programer from Poland🇵🇱</p>
   <p>🛠️I'm currently working on my css skills because I'm a little bad in coding in css!</p>
   <p>😄An interesting fact about me is that I have been playing the saxophone for 3 years🎷</p>
   <h1>RoadMapa</h1>
   <p>HTML</p>
-  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" alt="html image">
+  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" alt="html image" width: 40px; height: 40px; border-radius: 5px;>
   <p>CSS</p>
   <img src="https://blog.kakaocdn.net/dn/cc5yVN/btrGRkD6dh8/tsBVdnZSubyszQD6VgrNa0/img.webp" alt="css image">
   <p>JAVASCRIPT</p>
