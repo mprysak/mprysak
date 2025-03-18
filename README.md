@@ -1,6 +1,8 @@
 <style>
   img{
-    width: 20px;
+    width: 5px;
+    height: 5px;
+    border-radius: 2px;
   }
 </style>
 
