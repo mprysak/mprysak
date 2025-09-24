@@ -7,4 +7,4 @@ Hi! I'm Marcin and I'm young programer. In my freetime I like to play on saxopho
 [![My Skills](https://skillicons.dev/icons?i=python,git,github&perline=3)](https://skillicons.dev) 
 
 ### 🔧 Stuff I'm learning
-[![My Skills](https://skillicons.dev/icons?i=powershell,notion&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=powershell,notion,python&perline=3)](https://skillicons.dev)
